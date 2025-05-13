@@ -11,13 +11,13 @@ The working title for this project is 'Intro to Data Science'. I plan on taking 
 
 ### Why This Project 
 
-I was drawn to this idea because I love science. I wanted to do it now because it may be relevant to my research in alzheimer's disease and type II diabetes, in analyzing data. If not, it's still a good time to learn while python logic is fresh in my brain.
+I was drawn to this idea because I love science. I wanted to do it now because it may be relevant to my research in alzheimer's disease and type II diabetes, in analyzing data. If I don't utilize it, it's still a good time to learn while python logic is fresh in my brain.
 
 ---
 
 ### What I Want to Learn
 
-I'd like to stregnthen my understanding of panda, lists, it-statements, and while loops. This'll be doable because it is part of data science. Personally, I'd like to understand how designing experiments envolves data science.
+I'd like to stregnthen my understanding of panda, lists, it-statements, and while loops. This'll be doable because these are fundamental parts of data science. Personally, I'd like to understand how designing experiments envolves data science.
 
 
 
