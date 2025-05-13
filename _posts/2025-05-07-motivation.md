@@ -5,30 +5,28 @@ title: "Day 0 - Planning"
 
 ### Project Focus
 
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
+The working title for this project is 'Intro to Data Science'. I plan on taking a short (6 module) course on data science. This is interesting to me because I would like to go into neuroscience, and for any science, data analysis is a necessary skill. This is challenging because we haven't covered data analysis in Intro to Python.
 
 ---
 
 ### Why This Project 
 
-[What drew you to this idea? How does it connect to something you’re interested in—whether in or outside of class? Why is this the right project for *you* to work on right *now*?]
+I was drawn to this idea because I love science. I wanted to do it now because it may be relevant to my research in alzheimer's disease and type II diabetes, in analyzing data. If not, it's still a good time to learn while python logic is fresh in my brain.
 
 ---
 
 ### What I Want to Learn
 
-[What programming concepts do you want to strengthen through this project (e.g., functions, conditionals, loops, data structures)?  
-Beyond coding, what personal or creative skills are you hoping to build—like debugging, problem solving, design, or perseverance?]
+I'd like to stregnthen my understanding of panda, lists, it-statements, and while loops. This'll be doable because it is part of data science. Personally, I'd like to understand how designing experiments envolves data science.
 
 
 
 ### My Approach 
 
-[How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
-What does “done enough” look like to you—and how will you decide when to stop polishing?]
+I will prioritize understanding and taking good notes. I'll try to get as much done as early as possible, nonetheless. To me being "done enough" means having organized and clear thoughts, and legible code from the course.
 
 ---
 
 ### What's Next
 
-[What do you plan to tackle in the next stage of your project?]
+I plan to tackle each lesson.
