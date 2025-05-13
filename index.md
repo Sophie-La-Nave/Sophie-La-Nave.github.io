@@ -5,13 +5,13 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
+Hi, I'm Sophie La Nave, a student interested in data sciences.  
+This project was part of my final quest in Computer Programming; Intro to Python, and it reflects what I’ve learned about python as a coding language and applications of python's easily read syntax.
 
 ## About My Project
 
-**Project Title:** *[Name it!]*   
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *Intro to Data Science*   
+**One-line pitch:** Data analysis course; summaries, code, and advice!
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
