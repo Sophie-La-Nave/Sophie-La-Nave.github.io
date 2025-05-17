@@ -1,0 +1,40 @@
+layout: post
+title: "Day 3 - Module 3"
+---
+
+### What I Set Out to Do
+I was aiming to complete the entirety of the third course module. The focus of this third section was to introduce the concept of simulations using python.
+
+---
+
+### What I Actually Did
+
+I learned about Simulation and Data Distribution.
+Summary of the 9 lessons in Module 3:
+
+1. Simulations are ways to model real life situations and experiments, using python. Simulations give the rules of an environment, and python runs through it. This is implemented a lot in building rockets, because of the desire to limit waste, and danger.
+
+2. Random numbers in python. Random numbers help run simulations because there are some factors that simply are random, that need to be accounted for. The random library allows for the usage of random.randint(minimum point goes here, max here); selects random numbers and random.choice([]); selects random value. 
+
+3. For-loops in python. For-loops iterate through codes whatever number of times is given to iterate through. 
+
+4. Simple simulations in python. A simple simulation explored is:
+This code simulates two different dice rolling (red and blue), and iterates through the dice rolls as many times as put in for range. Red and blue are added to a dictionary so that both can be stored, and accessed at once through the dictionary. The data results are then converted to a data frame. When making simulations you want to model the simulation as closely to reality as possible. After, you want to be able to access the data table.
+
+5. Sample space is a set of all possible outcomes. For example, the amount of outcomes to a tic-tac-toe game!
+
+6. Conditional statements. Conditional statements are important with simulations because some simulations may have results only possible given a certain condition. For example, in tic-tac-toe, if a spot is full, you cannot fill it.
+
+7. Functions in python. This lesson overviewed what functions are. How to create them: def functionname():, and how to difault an argument to have a certain value if no argument is given. To do so, just write def function(val = 6):, as an example, and if no argument is given, it will default to 6.
+
+8. Normal curves. In statistics, normal curves are bell shaped histograms, with a predictably distributed standard deviation. Normal approximation is using normal curves to make approximations of data. An example for a normal curve, would be graphing IQs. The mean/average has the highest population. The standard normal curve has an avergae of zero and a standard deviation of 1. 
+
+9. Law of large numbers. The law of large numbers states that as the number of samples grows, the results average tends towards an expected value. An expected value is the most probable result in an experiment.
+---
+
+### What I Learned or Noticed
+I learned that simulations are pretty easy to craft on the small scale, and that the basis for simulations is just understanding circumstances/environment, and modeling them as closely to real life.
+
+### What's Next
+
+Modules 4 and 5 done by the end of tomorrow.
