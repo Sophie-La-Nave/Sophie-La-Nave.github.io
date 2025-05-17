@@ -18,7 +18,17 @@ Summary of the 9 lessons in Module 3:
 
 3. For-loops in python. For-loops iterate through codes whatever number of times is given to iterate through. 
 
-4. Simple simulations in python. A simple simulation explored is:
+4. Simple simulations in python. A simple simulation explored is: 
+import random
+import pandas as pd
+data = []                      # Step 1, empty list `data`
+for i in range(600):           # Step 2: for-loop
+  roll = random.randint(1, 6)  # Step 3: simulate real-world factors
+  d = { "roll": roll }         # Step 4: accumulate factors in dictionary `d`
+  data.append(d)               # Step 5: append `d` to `data`
+df = pd.DataFrame(data)        # Step 6: create the DataFrame (outside of the for-loop)
+ 
+df
 This code simulates two different dice rolling (red and blue), and iterates through the dice rolls as many times as put in for range. Red and blue are added to a dictionary so that both can be stored, and accessed at once through the dictionary. The data results are then converted to a data frame. When making simulations you want to model the simulation as closely to reality as possible. After, you want to be able to access the data table.
 
 5. Sample space is a set of all possible outcomes. For example, the amount of outcomes to a tic-tac-toe game!
