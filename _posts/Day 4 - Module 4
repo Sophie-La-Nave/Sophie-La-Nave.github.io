@@ -1,0 +1,52 @@
+layout: post
+title: "Day 4 - Module 4"
+---
+
+### What I Set Out to Do
+I was aiming to complete the entirety of the fourth and fifth course module. The focus of this fourth section was to introduce the concept of probability and key ideas within it.
+
+---
+
+### What I Actually Did
+
+I only did module 4. I learned about Prediction and Probability.
+Summary of the 6 lessons in Module 4:
+
+1. The sample space is a set of all possible outcomes of an event. Eg. flipping a coin three times has these possible outcomes: HHH, TTT, HTT, HHT, THT, TTH, HTH, and THH. Chance or probability is the pecentage of times one expects a specific outcome. Chance = # of outcomes/total # of possibilities. 
+Probability notation: 
+- P(A) means probability of A.
+- Condional probability : a probability given a certain condition. Notation: P(A/B) (Probability of A given B)
+- 0.7 = 70%, probability given in decimals.
+- complement of an event : chance of something not occuring (1-chance of occurance). Notation: P(A^C), Ā, and A'
+More def.s: Independence, in probability, is if P(A) has the same result even when P(B) changes, ie. when a result of one thing is not changed by/dependent on the result of another. Dependence is the opposite.
+
+2. The Monty Hall Problem. Suppose you were told that behind one of three doors, there are a million dollars, all you have to do is pick the right door. Let's call these doors door A, door B, and door C. If you originally say door C, you're given the hint that door B is incorrect, and you get to choose again, would you change your answer? You should, because this problem highlights that when you first guessed the doors, there was only a 1/3 chance you were right, whereas now, there's a 1/2 chance you're right. The probability is higher when you switch choice.
+|   A  |              |  B   |              |  C   |
+|      |              |      |              |      |
+|      |              |      |              |      |
+
+|   A  |              | ❌💵  |              |  C   |
+|      |              |      |              |      |
+|      |              |      |              |      |
+ 
+3. The Multiplication Rule: P(A and B) = P(A) * P(B). The probability of two events happening is always lower than the probabilty of one of those two things happening. Eg. If you're rolling a six-sided die twice, and you want to get a 1 and a 2, the probability of that happening = 1/6 * 1/6 = 1/36.
+
+4. The Addition Rule: P(A or B) = P(A) + P(B) - P(A and B). If you're rolling a die twice and you want to know the probability of getting 1 or 2, you have to take into account the possinility of getting both, and subtract that. As shown: P(rolling 1 or 2) = P(1) + P(2) - P(1 and 2) = 1/6 + 1/6 - 1/6 * 1/6 = 1/3 - 1/36 = 11/36
+ 
+5. Using a Contingeny table to find Conditional Probability. If there's a genetic test to test for being related to Taylor Swift, and out of 200 people, only 1% are related to her, 99% related get a positive result, 6% not related also get a positive result, we can map that on a contingency table.
+result         related             not related         total
++             .99(2) = ~2          .06(198) = ~12       14
+-             .01(2) = ~0          186                  186
+total         .01(200) = 2         198                  200
+
+Now, if we're trying to find out the liklihood that Person A is related to T. Swift, and they got a positive result, we can use the table above. (Let's call R related to T.S. and + pos. result) P(R/+) = 2/14, because only 2 people (as seen in the table) out of 14 who got a positive result got a true positive. 1/7 = 14% 
+
+6. Bayes' Rule. P(h/D) = P(D/h) * P(h)/P(D). Ie. Probability of hypothesis given data is equal to probability of data over hypothesis times probability of hypothesis over probability of data. Using the T. Swift example shown above (lesson 5), hypothesis = related, data = positive. P(R/+) = P(+/R) * P(R)/P(+) = 99/100* 1/100 / 7.99/100 = 1/7 = ~ 14 %. P(+) AKA 7.99 is found: 99/100 (AKA P(+/R)) * 1/100 (AKA P(R)) + 6/100 (AKA P(+/notR)) * 99/100 (AKA P(notR)) = ~ 7.99.
+
+---
+
+### What I Learned or Noticed
+I learned that probability is a little more complex than I had assumed, and that it gets more complex the more factors you add
+### What's Next
+
+Modules 5 and 6 done by the end of tomorrow :D.
