@@ -16,6 +16,7 @@ This project was part of my final quest in Computer Programming; Intro to Python
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-18-tip.md)
 
 🛠️ [Source Code (GitHub)](https://sophie-la-nave.github.io/files/Lessons.ipynb) 
+
 [ReadMe (GitHub)](https://sophie-la-nave.github.io/files/README.md)
 
 
