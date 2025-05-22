@@ -13,5 +13,6 @@ All summaries of the course; modules (header and main ideas) lessons (sub-points
 
 Module: 1--------------------2--------------------3--------------------4--------------------5 & 6
 
-Where to access: 2025-05-13-day-1.md        2025-05-14-day-2.md          2025-05-16-day-3.md        2025-05-17-day-4.md        2025-05-18-day-5.md
-On site: My blog - day 1                    My blog- day 2               My blog- day 3              My blog- day 4            My blog- day 5
+Where to access: 2025-05-13-day-1.md -------------------- 2025-05-14-day-2.md -------------------- 2025-05-16-day-3.md    
+ -------------------- 2025-05-17-day-4.md -------------------- 2025-05-18-day-5.md
+On site: My blog - day 1 --------------------   My blog- day 2  --------------------  My blog- day 3  --------------------  My blog- day 4 --------------------  My blog- day 5
